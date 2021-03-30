@@ -1,0 +1,8 @@
+session_name: default-trinity
+windows:
+  - window_name: console
+    layout: main-vertical
+    panes:
+      - focus:true
+      -
+      -
