@@ -1,14 +1,22 @@
 # labsetup
-Configurations for minimum lab setup such as:
+Configurations for minimum lab setup:
 
 - fonts
--- Cascadia PL
--- Fira Code PL
+-  Cascadia PL
+- Fira Code PL
 - color schemes
--- Gruvbox
+- Gruvbox
 - tmux config
--- minimum
+- minimum
 - vi config 
--- mininum
+- mininum
 - windows terminal
--- powerline, oh-myosh
+  - powerline
+  - oh-myposh
+- Text Editor
+  - Note Taking
+    - Typora
+  - Coding/Editing
+    - Sublime
+    - Vim
+    - VisualStudio
